@@ -18,7 +18,7 @@ title: Josh and Oceanwave tutorials (same entity)
 
 | Incident | Date | Role | Outcome |
 |----------|------|------|---------|
-| [#001 — April Fools](../incidents/example-incident) | 04/01/2025 | JoshWave | Banned |
+| [#001 — April Fools](../incidents/aprilfools) | 04/01/2025 | JoshWave | Banned |
 
 ## Notes
 
