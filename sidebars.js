@@ -7,6 +7,8 @@ const sidebars = {
       items: [
         'incidents/overview',
         'incidents/example-incident',
+        'incidents/april-fools-incident',
+        'events/cat-squad-bombing',
       ],
     },
   ],
