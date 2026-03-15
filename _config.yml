@@ -1,0 +1,9 @@
+title: Federal Gamers TCCN
+description: Criminal Database for Federal Gamers
+theme: jekyll-theme-minimal
+
+nav:
+  - title: Home
+    url: /
+  - title: Help
+    url: /help
