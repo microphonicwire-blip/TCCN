@@ -7,12 +7,12 @@ const config = {
   tagline: 'Official records for the server',
   favicon: 'img/favicon.ico',
 
-  url: 'https://YOUR_USERNAME.github.io',
-  baseUrl: '/YOUR_REPO_NAME/',
-
-  organizationName: 'YOUR_USERNAME',
-  projectName: 'YOUR_REPO_NAME',
-
+  url: 'https://microphonicwire-blip.github.io',
+  baseUrl: '/TCCN/',
+  
+  organizationName: 'microphonicwire-blip',
+  projectName: 'TCCN',
+  
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
 
